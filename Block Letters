@@ -1,0 +1,9 @@
+#Josh Shull
+#Fun Fact: I love chess
+print("    JJJJJJ  SSS    ") 
+print("      JJ   SS  SS  ")
+print("      JJ   SS      ")
+print("      JJ    SSS    ")
+print("  JJ  JJ       SS  ")
+print("  JJ  JJ   SS  SS  ")
+print("   JJJJ     SSS    ")
